@@ -3,12 +3,12 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.aeolus_aero</groupId>
     <artifactId>ambiance</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.0</version>
     <packaging>jar</packaging>
     <scm>
         <developerConnection>scm:git:git@github.com:AeolusAero/Ambiance.git</developerConnection>
         <connection>scm:git:git@github.com:AeolusAero/Ambiance.git</connection>
-        <tag>HEAD</tag>
+        <tag>ambiance-1.0</tag>
     </scm>
     <distributionManagement>
         <repository>
