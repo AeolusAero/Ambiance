@@ -5,6 +5,18 @@
     <artifactId>ambiance</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>jar</packaging>
+    <scm>
+        <developerConnection>scm:git:git@github.com:AeolusAero/Ambiance.git</developerConnection>
+        <connection>scm:git:git@github.com:AeolusAero/Ambiance.git</connection>
+        <tag>HEAD</tag>
+    </scm>
+    <distributionManagement>
+        <repository>
+            <id>github-aeolus-aero</id>
+            <name>GitHub Packages</name>
+            <url>https://maven.pkg.github.com/AeolusAero/Ambiance/</url>
+        </repository>
+    </distributionManagement>
     <dependencies>
         <dependency>
             <groupId>junit</groupId>
