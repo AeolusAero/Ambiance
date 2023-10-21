@@ -1,3 +1,8 @@
+/doc
+/nbproject
+/target
+
+
 # Compiled class file
 *.class
 
